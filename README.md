@@ -15,6 +15,7 @@ Variants provided include texturing and rails.
 - **SWMP-9C** - Compact length grip, with compact length slide. (Matches factory 1.0 M&P 9C offering.)
 - **SWMP-9X** - Standard length grip, with compact length slide. (Think Glock 19X.)
 - **SWMP-9S** - Compact length grip, with standard length slide. (Think a Glock 17/L slide on a Glock 26 frame.)
+- **MMMMandP** - Standard length ergonomizied grip, with standard length slide. A race-gun style vairant with an integral gas pedal, extended beaver tail, grip texturing, and semi-flared magwell.
 
 If you have a M&P _9L_ kit, you can use any frame with the standard length slide. Each frame also has a textured variant, railed variant, and a texture + rail variant.
 
@@ -45,7 +46,16 @@ You will need a set of each below for each [x] you make.
 Pro-tip: Using a vice is okay to press the pins in place.
 
 ## Change Log
-- 0.1: First private beta
+
+- v0.2: Private Beta Candidate 2
+    * Adjusted full-size magwell fitment
+    * Corrected rear rail tolerances
+    * Added MMMMandP variant
+    * Added trigger safety geometry
+    * Adjusted trigger clearance hole
+
+- v0.1: Private Beta Candidate 1
+    * Initial commit
 
 ## License
 MIT License.
