@@ -1,14 +1,16 @@
 # SWMP-9
-A frame for the S&W M&P 9, 9L, and 9C parts kits. (Untested with M&P 40, or M&P 45.)
+A frame for the S&W M&P 9, 9L, and 9C parts kits.
 
 by nguyenkvvn
 
 ## Description
 This is a 3D printable frame for the M&P series pistol.
 It is compatible with the 1.0 M&P 9, 9L, and 9C.
-It is untested with 2.0 M&P 9's, 1.0/2.0 40's, and 1.0/2.0 45's.
+It is untested with 2.0 M&P 9's, 1.0/2.0 .40's, or 1.0/2.0 .357's.
 This frame is NOT compatible with the M&P 9 Shield, as that is a different frame size entirely.
+This frame is NOT compatible with 1.0/2.0 45's, as they utlize a different locking block.
 Variants provided include texturing and rails.
+Note that aftermarket triggers _and Performance Center_ triggers may require modification to the striker plate interface loop towards the rear.
 
 ## Variants
 - **SWMP-9** - Standard length grip, with standard length slide. (Matches factory 1.0 M&P 9 offering.)
@@ -21,8 +23,8 @@ If you have a M&P _9L_ kit, you can use any frame with the standard length slide
 
 ## Materials Required
 You will need a set of each below for each [x] you make.
-- x1 **Parts Kit** -
-- x1 **Glock Steel Spring**
+- x1 **Parts Kit** - Procure a parts kit of your preference.
+- x1 **Glock Steel Spring** - this is for retainign the magazine release button
 - x1 **Magazine** - You will need a magazine for your respective caliber and frame size. (Remember- compact magazines do not fit with full-size magazines. If you are in a pinch, P229 magazines will fit inside a compact length grip.)
 
 ## Instructions
