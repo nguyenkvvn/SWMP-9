@@ -28,7 +28,7 @@ You will need a set of each below for each [x] you make.
 - x1 **Magazine** - You will need a magazine for your respective caliber and frame size. (Remember- compact magazines do not fit with full-size magazines. If you are in a pinch, P229 magazines will fit inside a compact length grip.)
 
 ## Instructions
-1. Print the frame at your best printing strength and quality. 100% infill is required, and tree supports definitely help.
+1. Print the frame at your best printing strength and quality. 100% infill is required, and tree supports definitely help. Print with the frame standing up, with the top of the frame parallel with the print bed, standing up.
 2. Insert the rear fire control group module into the frame. You may need a ball and peen hammer to gently tap the module into place. Remember- it insert at an angle into the frame, so don't force it downwards if it doesn't seat. Remove and try again. It must seat completely into the bottom of the slot.
 3. Pin the rear fire control group into place.
 4. Insert the trigger assembly into the frame, with the sear-lifter of the trigger bar into place of the rear fire control group module.
