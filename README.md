@@ -51,6 +51,7 @@ Pro-tip: Using a vice is okay to press the pins in place.
 
 - v0.4: Private Beta Candidate 4
     * Reconciled changed propagating from altering front locking block distance
+    * Allows for rear fire-control modules with safeties to be used (PROVIDED THE SAFETY LEVER IS NOT USED).
 
 - v0.3: Private Beta Candidate 3
     * Corrected front locking block distance
