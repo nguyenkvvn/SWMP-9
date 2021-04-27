@@ -49,6 +49,13 @@ Pro-tip: Using a vice is okay to press the pins in place.
 
 ## Change Log
 
+- v0.4: Private Beta Candidate 4
+    * Reconciled changed propagating from altering front locking block distance
+
+- v0.3: Private Beta Candidate 3
+    * Corrected front locking block distance
+    * Temporarily removed picatinny and MMMMandP variant
+
 - v0.2: Private Beta Candidate 2
     * Adjusted full-size magwell fitment
     * Corrected rear rail tolerances
