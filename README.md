@@ -19,7 +19,7 @@ Note that aftermarket triggers _and Performance Center_ triggers may require mod
 - **SWMP-9S** - Compact length grip, with standard length slide. (Think a Glock 17/L slide on a Glock 26 frame.)
 - **MMMMandP** - Standard length ergonomizied grip, with standard length slide. A race-gun style vairant with an integral gas pedal, extended beaver tail, grip texturing, and semi-flared magwell.
 
-If you have a M&P _9L_ kit, you can use any frame with the standard length slide. Each frame also has a textured variant, railed variant, and a texture + rail variant.
+If you have a M&P _9L_ kit, you can use any frame with the standard length slide.
 
 ## Materials Required
 You will need a set of each below for each [x] you make.
@@ -48,6 +48,10 @@ You will need a set of each below for each [x] you make.
 Pro-tip: Using a vice is okay to press the pins in place.
 
 ## Change Log
+
+- v0.5: Private Beta Candidate 5
+    * Reintroduced picatinny variants
+    * Further refinements to accomodate fire control groups that had safeties (PROVIDED THE SAFETY LEVER IS NOT USED).
 
 - v0.4: Private Beta Candidate 4
     * Reconciled changed propagating from altering front locking block distance
