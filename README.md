@@ -17,7 +17,7 @@ Note that aftermarket triggers _and Performance Center_ triggers may require mod
 - **SWMP-9C** - Compact length grip, with compact length slide. (Matches factory 1.0 M&P 9C offering.)
 - **SWMP-9X** - Standard length grip, with compact length slide. (Think Glock 19X.)
 - **SWMP-9S** - Compact length grip, with standard length slide. (Think a Glock 17/L slide on a Glock 26 frame.)
-- **MMMMandP** - Standard length ergonomizied grip, with standard length slide. A race-gun style vairant with an integral gas pedal, extended beaver tail, grip texturing, and semi-flared magwell. ***YOU MUST TWEAK AND TUNE YOUR TRIGGER BAR LOOP FOR THIS MODEL FOR THE SEAR TO ENGAGE, AND THEN ACCORDING TO YOUR PREFERENCES.**
+- **MMMMandP** - Standard length ergonomizied grip, with standard length slide. A race-gun style vairant with an integral gas pedal, extended beaver tail, grip texturing, and semi-flared magwell. This model is only compatible with non-safety variant of the rear fire control module. ***YOU MUST TWEAK AND TUNE YOUR TRIGGER BAR LOOP FOR THIS MODEL FOR THE SEAR TO ENGAGE, AND THEN ACCORDING TO YOUR PREFERENCES.**
 
 If you have a M&P _9L_ kit, you can use any frame with the standard length slide.
 
@@ -48,6 +48,9 @@ You will need a set of each below for each [x] you make.
 Pro-tip: Using a vice is okay to press the pins in place.
 
 ## Change Log
+
+- v0.6: Private Beta Candidate 6
+    * You no longer have to remove the safety spring and plunger from the rear fire-control module if you have the safety variant.
 
 - v0.5: Private Beta Candidate 5
     * Reintroduced picatinny variants
