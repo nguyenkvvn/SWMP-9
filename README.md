@@ -49,6 +49,9 @@ Pro-tip: Using a vice is okay to press the pins in place.
 
 ## Change Log
 
+- v1.0: Release Candidate 1
+    * Promoted to RC1.
+
 - v0.6: Private Beta Candidate 6
     * You no longer have to remove the safety spring and plunger from the rear fire-control module if you have the safety variant.
 
