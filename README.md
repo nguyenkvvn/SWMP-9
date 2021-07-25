@@ -47,7 +47,13 @@ You will need a set of each below for each [x] you make.
 
 Pro-tip: Using a vice is okay to press the pins in place.
 
+An assembly guide can be found [here](https://youtu.be/9yiozpxlnK4?t=2101).
+
 ## Change Log
+
+- v1.0: Final release
+    * Promoted RC1 to release.
+    * Added assembly video link.
 
 - v1.0: Release Candidate 1
     * Promoted to RC1.
@@ -79,4 +85,4 @@ Pro-tip: Using a vice is okay to press the pins in place.
     * Initial commit
 
 ## License
-MIT License.
+No license has been selected as of 7/25/2021.
