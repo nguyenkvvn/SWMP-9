@@ -47,7 +47,7 @@ You will need a set of each below for each [x] you make.
 
 Pro-tip: Using a vice is okay to press the pins in place.
 
-An assembly guide can be found [here](https://youtu.be/9yiozpxlnK4?t=2101).
+Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-Assembly:a
 
 ## Change Log
 
