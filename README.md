@@ -51,6 +51,9 @@ Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-A
 
 ## Change Log
 
+- v1.1: Update 1 Release Candidate
+    * Updated geometry for the magazine release button
+
 - v1.0: Final release
     * Promoted RC1 to release.
     * Added assembly video link.
