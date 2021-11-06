@@ -50,9 +50,12 @@ Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-A
 
 ## Change Log
 
+- v1.3: Update 1 Release Candidate 4
+    * Corrected full-size magwell height to raise 1.5mm
+
 - v1.3: Update 1 Release Candidate 3
     * QoL update to fix magazine release geometry
-    * Corrected full-size magwell height
+    * Corrected full-size magwell height to raise 3.0mm
 
 - v1.2: Update 1 Release Candidate 2
     * You can now insert the magazine release on either side
