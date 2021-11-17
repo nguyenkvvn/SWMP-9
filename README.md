@@ -17,6 +17,7 @@ Note that aftermarket triggers _and Performance Center_ triggers may require mod
 - **SWMP-9C** - Compact length grip, with compact length slide. (Matches factory 1.0 M&P 9C offering.)
 - **SWMP-9X** - Standard length grip, with compact length slide. (Think Glock 19X.)
 - **SWMP-9S** - Compact length grip, with standard length slide. (Think a Glock 17/L slide on a Glock 26 frame.)
+- **MMMMandP** - Standard length grip, with standard legnth slide. Has a gas pedal, enhanced ergonomics, and some aesthetic changes.
 
 If you have a M&P _9L_ kit, you can use any frame with the standard length slide.
 
@@ -50,7 +51,10 @@ Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-A
 
 ## Change Log
 
-- v1.3: Update 1 Release Candidate 4
+- v1.5: Update 1 Release Candidate 5
+    * Reintroduced MMMM&P variant revised for updated baseline
+
+- v1.4: Update 1 Release Candidate 4
     * Corrected full-size magwell height to raise 1.5mm
 
 - v1.3: Update 1 Release Candidate 3
