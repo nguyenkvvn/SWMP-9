@@ -22,11 +22,18 @@ Note that aftermarket triggers _and Performance Center_ triggers may require mod
 If you have a M&P _9L_ kit, you can use any frame with the standard length slide.
 
 ## Instructions
+- Print with 100% infill, and four walls.
+- Tree supports are recommended.
+- Print upside down for best appearance only if your support settings are dialed in.
+
 PDF assembly guide included in this release.
 
 Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-Assembly:a
 
 ## Change Log
+
+- v1.7: Update 1 Release Candidate 7
+    * Added geometry to accomodate the M2.0 kits
 
 - v1.6: Update 1 Release Candidate 6
     * Updated the trigger pin hole offset to be a little larger so it can go under the takedown lever
