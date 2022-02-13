@@ -5,22 +5,22 @@ by nguyenkvvn
 
 ## Description
 This is a 3D printable frame for the M&P series pistol.
-It is compatible with the 1.0 M&P 9, 9L, and 9C.
-It is untested with 2.0 M&P 9's, 1.0/2.0 .40's, or 1.0/2.0 .357's.
+It is compatible with the 1.0/2.0 M&P 9, 9L, and 9C.
+It is untested with 1.0/2.0 .40's, or 1.0/2.0 .357's.
 This frame is NOT compatible with the M&P 9 Shield, as that is a different frame size entirely.
 This frame is NOT compatible with 1.0/2.0 45's, as they utlize a different locking block.
 Variants provided include texturing and rails.
 Note that aftermarket triggers _and Performance Center_ triggers may require modification to the striker plate interface loop towards the rear.
 
 ## Variants
-- **SWMP-9** - Standard length grip, with standard length slide. (Matches factory 1.0 M&P 9 offering.)
+- **SWMP-9** - Standard length grip, with standard length slide. (Matches factory 1.0 M&P 9 offering, and Girsan M28 SA.)
 - **SWMP-9 M2.0** - Standard length grip, with standard length slide. (Matches factory 2.0 M&P 9 offering.)
 - **SWMP-9C** - Compact length grip, with compact length slide. (Matches factory 1.0 M&P 9C offering.)
 - **SWMP-9X** - Standard length grip, with compact length slide. (Think Glock 19X.)
 - **SWMP-9S** - Compact length grip, with standard length slide. (Think a Glock 17/L slide on a Glock 26 frame.)
 - **SWMP-9S M2.0** - Compact length grip, with standard length slide. (Matches factory 2.0 M&P 9 offering.)
 - **MMMMandP** - Standard length grip, with standard legnth slide. Has a gas pedal, enhanced ergonomics, and some aesthetic changes.
-If you have a M&P _9L_ kit, you can use any frame with the standard length slide.
+If you have a M&P _9L_ kit, you can use any frame with the standard length slide. (Not compatible with the Girsan M28 SA)
 
 ## Instructions
 - Print with 100% infill, and four walls.
@@ -33,7 +33,11 @@ Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-A
 
 ## Change Log
 
-- v1.7: Update 1 Release Candidate 8
+- v1.9: Update 1 Release Candidate 9
+    * Refined geometry to accomodate the M2.0 kits yet again
+    * Introduced compatibilty for Girsan MC28 SA kits
+
+- v1.8: Update 1 Release Candidate 8
     * Refined geometry to accomodate the M2.0 kits
     * Added variant for M2.0 full-size slides
 
