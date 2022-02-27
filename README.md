@@ -31,9 +31,11 @@ If you have a M&P _9L_ kit, you can use any frame with the standard length slide
 
 PDF assembly guide included in this release.
 
-Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-Assembly:a
-
 ## Change Log
+
+- v1.12: Update 1 Release Candidate 12
+    * Ensured M2.0 models actually M2.0 geometry
+    * Removed obsoleted video guide link
 
 - v1.11: Update 1 Release Candidate 11
     * Ensured M2.0 models are actually M2.0 length
@@ -112,4 +114,4 @@ Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-A
     * Initial commit
 
 ## License
-No license has been selected as of 7/25/2021.
+No license has been selected as of 2/27/2022.
