@@ -35,6 +35,10 @@ Video assembly guide can be found here: https://odysee.com/@nguyenkvvn:a/SWMP9-A
 
 ## Change Log
 
+- v1.11: Update 1 Release Candidate 11
+    * Ensured M2.0 models are actually M2.0 length
+    * Girsan MC28SA model addressed rear sear block fitment
+
 - v1.10: Update 1 Release Candidate 10
     * Even more geometry refinements
     * Spun off Girsan MC28 SA into its own variant
