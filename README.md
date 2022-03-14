@@ -11,7 +11,7 @@ This frame is NOT compatible with the M&P 9 Shield, as that is a different frame
 This frame is NOT compatible with 1.0/2.0 45's, as they utlize a different locking block.
 Variants provided include texturing and rails.
 Note that aftermarket triggers _and Performance Center_ triggers may require modification to the striker plate interface loop towards the rear.
-Girsan M28 SA kits using M&P magazines will require the M&P magazine's retention cutout to be extended width wise.
+Girsan M28 SA kits using M&P magazines will require the M&P magazine's retention cutout to be extended width wise, and a reduction to the steel lip of body near the follower's last-round-hold-open geometry. (Using M&P magazines on Girsan M28 SA kits are not recommended.)
 
 ## Variants
 - **SWMP-9** - Standard length grip, with standard length slide. (Matches factory 1.0 M&P 9 offering, and Girsan M28 SA.)
@@ -32,6 +32,9 @@ If you have a M&P _9L_ kit, you can use any frame with the standard length slide
 PDF assembly guide included in this release.
 
 ## Change Log
+
+- v1.13: Update 1 Release Candidate 13
+    * Addressed gap in compact models after magazine is seated.
 
 - v1.12: Update 1 Release Candidate 12
     * Ensured M2.0 models actually M2.0 geometry
